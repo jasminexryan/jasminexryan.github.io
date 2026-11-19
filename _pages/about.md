@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 ![Musical Bumps Trail, Garibaldi Provincial Park. 2026]({{ site.baseurl }}/images/musicalbumps.jpg){: style="border-radius:16px; width:70%;"}
+
 *Musical Bumps Trail, Garibaldi Provincial Park. 2026*
 
 Plant Ecology in Nature
