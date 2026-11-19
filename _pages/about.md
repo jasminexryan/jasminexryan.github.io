@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Jasmine Ryan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![Musical Bumps Trail, Garibaldi Provincial Park. 2026]({{ site.baseurl }}/images/musicalbumps.jpg){: style="border-radius:16px; width:50%;"}
+![Musical Bumps Trail, Garibaldi Provincial Park. 2026]({{ site.baseurl }}/images/musicalbumps.jpg){: style="border-radius:16px; width:70%;"}
 
 
 Plant Ecology in Nature
