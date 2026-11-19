@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+![Musical Bumps Trail, Garibaldi Provincial Park. 2026]({{ site.baseurl }}/images/musicalbumps_2744.HEIC){: style="border-radius:16px;"}
+
+
 Plant Ecology in Nature
 ======
 Hello! My name is Jasmine. I'm a doctoral student in the Angert Lab at the University of British Columbia with a passion for field science (the coolest office is outside). Here, is a collection of my interests, happenings, and aspirations!
