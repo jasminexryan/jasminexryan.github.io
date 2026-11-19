@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Botany, University of British Columbia, 2030 (expected)
-  * Thesis: Experimental field ecological research of species range boundaries
-  * Supervisors: Dr. Amy Angert & Dr. Courtney Collins
-* B.Sc., Biology, University of California, Los Angeles, 2024
-  * Departmental Honors; Magna Cum Laude
-  * Cumulative GPA: 3.97; Departmental GPA: 4.00
-* Transfer Biology, Butte College, Oroville, CA, 2019–2022
+Ph.D., Botany, University of British Columbia, 2030 (expected)
+* Thesis: Experimental field ecological research of species range boundaries
+* Supervisors: Dr. Amy Angert & Dr. Courtney Collins
+B.Sc., Biology, University of California, Los Angeles, 2024
+* Departmental Honors; Magna Cum Laude
+* Cumulative GPA: 3.97; Departmental GPA: 4.00
+Transfer Biology, Butte College, Oroville, CA, 2019–2022
 
 Awards, Grants and Fellowships
 ======
