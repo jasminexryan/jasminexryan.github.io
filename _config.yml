@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jasmine Ryan / PhD Student"
 title_separator          : "-"
 name                     : &name "Jasmine Ryan"
@@ -24,9 +24,9 @@ repository               : "jasminexryan/jasminexryan.github.io"
 author:
   # Biographic information
   avatar           : "JR_profile.jpg"
-  name             : "Jasmine"
+  name             : "Jasmine Ryan"
   pronouns         : # example: "she/her"  
-  bio              : "2nd-year PhD Student at UBC"
+  bio              : "2nd-year PhD; Plant Ecology"
   location         : "Vancouver, Canada"
   employer         : "University of British Columbia"
   uri              : # URL
@@ -34,14 +34,14 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  Angert Lab       : "https://angert.github.io/people.html"
   googlescholar    : "https://scholar.google.com/citations?user=PCCSNjYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0007-8771-0425"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
